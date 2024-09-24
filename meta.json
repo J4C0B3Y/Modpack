@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+      "id": "1.1.0",
+      "releasedAt": 1727185237707,
+      "promotions": {
+        "downloads": {
+          "generic": "https://cdn.voided.gg/Vanilla%20Enhanced%201.1.0.mrpack"
+        }
+      }
+    }
   ]
 }
